@@ -1,0 +1,2 @@
+python-nma
+python3-nma
