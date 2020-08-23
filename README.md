@@ -1,4 +1,4 @@
-#**PortScans em python3**#
+#PortScans em python3#
 1. *nmapportscan.py*
 Código em python com a propriedade de escanear portas através da biblioteca python3-nmap.
 
