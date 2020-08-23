@@ -23,3 +23,6 @@ sudo python3 nmapportscan.py
 ~~~console
 sudo python3 pscan.py
 ~~~
+
+
+** Códigos provenientes do curso da plataforma _Digital_ _Innovation_ _One_ , ministrado por Bruno Dias **
