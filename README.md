@@ -5,7 +5,7 @@ Código em python com a propriedade de escanear portas através da biblioteca py
 2. *pscan.py*
 Código em python com a propriedade de cerificar se uma determinada porta de um endereço está aberta, usando a biblioteca socket.
 
-###Requerimentos###
+**Requerimentos**
 
 Para melhor utilização desse código é necessários instalar a biblioteca nmap, do python3 ou apenas instale o requirement.txt
 
@@ -13,7 +13,6 @@ Para melhor utilização desse código é necessários instalar a biblioteca nma
 pip3 install -r requeriments.txt
 ~~~
 
-###Utilizando:###
 A utilização é simples, basta executar o código na IDE ou terminal e seguir os paços pedidos.
 
 ~~~console
